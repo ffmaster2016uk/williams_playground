@@ -1,0 +1,13 @@
+Lead PHP Developer Lead the development of new features for the Freeview Play platform at  Arqiva, global leader in Communications Infrastructure.
+
+Full time Permanent Central London £63-£68,000 + bonus & comprehensive benefits
+
+The Lead PHP Engineer is a “hands on” technical leadership role for the backend development team.  This is a small team of PHP Developers who design and develop current and new features for  projects which primarily focus on broadcast and streaming services, particularly on the Freeview Play  platform. You’ll be responsible for writing clean, maintainable, testable and performant code. At the  same time encouraging best practices within the team and working closely with the architects to guide the technical solutions. Writing up to date code in PHP, using current and new technologies and  proposing new solutions, you’ll work on new features and generally improving quality as well as  introducing comprehensive tests on a mixture of Greenfield and existing projects.
+
+You’ll also: • Be part of the release cycle process including ensuring quality control • Support infrastructure and DevOps teams • Line manage the PHP Developers
+
+With a Degree in Computer Science or similar and a passion for technology, you’ll have considerable  experience in Agile development teams, increasingly in a leadership capacity and mentoring junior  team members. Your strong technical skills with PHP and PHPUnit and experience developing  scalable custom PHP sites are complemented with your ability to get up to speed quickly and remain  current on new and emerging technologies and their potential application. With experience in PHP  frameworks (preferably Symfony2) you’ll ideally have worked with Linux platforms and have  experience of messaging queues.
+
+You’ll also have experience with: • RESTful services • XML and XSD • Version control such as GIT • Docker/Containers (Desirable)
+
+At Arqiva, our vision is to be central to every vital connection in a world which depends on a  continuous stream of information. Always. At the forefront of communications infrastructure and media services, we’re the people behind the scenes who make connections happen in the digital world. Our  values are about being ingenious, straightforward and collaborative in a clear and simple way to  enable us to go that extra mile for our customers. Your application will be treated with absolute confidentiality.
